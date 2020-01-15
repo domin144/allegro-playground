@@ -1,0 +1,22 @@
+100.81
+10
+0.9
+1
+3
+
+Dane należy wprowadzać w formacie:
+g
+m
+alfa
+dalfa
+l
+
+gdzie:
+g przespieszenie ziemskie w m/s^2
+m masa kulki w kg
+alfa początkowy kąt wychylenia w radianach
+dalfa początkowa prędkość kątowa w radianach/s
+l długość linki w m (1m=100 pikseli)
+
+Przy ułamkach należy używać kropki zamiast przecinka.
+wszstko co jest zapisane poniżej 5 liczby zostanie zignorowane.
